@@ -7,7 +7,7 @@ YYYY: 2021
 Days to add: 1
 1/1/2022
 
-# also handles invalid inputs as shown below
+###also handles invalid inputs as shown below
 DD: 35
 MM: 1
 YYYY: 2021
@@ -20,14 +20,14 @@ YYYY: 1
 Days to add: 1
 2/2/2
 
-# February month demonstration
+### February month demonstration
 DD: 28
 MM: 2
 YYYY: 2021
 Days to add: 1
 1/3/2021
 
-# for leap year
+### for leap year
 DD: 28
 MM: 2
 YYYY: 2020
